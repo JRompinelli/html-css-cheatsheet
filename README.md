@@ -17,7 +17,7 @@ Project made for Codecademy's Full-Stack learning path.
 * CSS3
 
 ## Setup
-
+https://jrompinelli.github.io/html-css-cheatsheet/.
 
 ## Status
 Project is: _in progress_.
