@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    background-color: aqua;
+  }
+  
+  h2 {
+    color: royalblue;
+    text-align: center;
+  }
+  
+  table {
+    border: 2px solid dodgerblue;
+    width: 720px;
+    margin: 0 auto;
+  }
+  
+  thead {
+    background-color: dodgerblue;
+  }
+  
+  td {
+    border-top: 1px solid dodgerblue;
+  
+  }
+
+  th {
+    text-align: justify;
+    color: white;
+  }
+  
+  .code {
+    font-family: monospace;
+    background-color: aqua;
+    font-size: 14px;
+  }
+  
